@@ -1,7 +1,2 @@
-# RNA Seq Pipelines
-
-1) Pipeline-1:
-FASTQC->TRIMMOMATIC->HISAT2->STRINGTIE->DESEQ2
-
-2) Pipeline-2(Snakemake Workflow):
-FASTQC->TRIMGALORE->STAR->HTSEQ-COUNT->DESEQ2->PICARDMAETRICS->COUNTS_TO_TPM
+Please find the scripts for the RNA Seq Pipeline, prepDE.py and DESEQ2 in the scripts folder.
+All the outputs of each dataset are present in the respective folders.
