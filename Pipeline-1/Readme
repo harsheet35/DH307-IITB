@@ -1,1 +1,0 @@
-We use FASTQ files as input. This pipeline is working till the step of Stringtie but I am unable to perform the differential analysis using DESEQ2 command.
