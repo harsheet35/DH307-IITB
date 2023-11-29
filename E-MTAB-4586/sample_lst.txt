@@ -1,0 +1,8 @@
+ERR1338025 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338025_transcripts.gtf
+ERR1338026 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338026_transcripts.gtf
+ERR1338027 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338027_transcripts.gtf
+ERR1338028 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338028_transcripts.gtf
+ERR1338029 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338029_transcripts.gtf
+ERR1338030 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338030_transcripts.gtf
+ERR1338031 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338031_transcripts.gtf
+ERR1338032 /home/user/Desktop/Harsheet_DH307/StringTie_output/ERR1338032_transcripts.gtf
